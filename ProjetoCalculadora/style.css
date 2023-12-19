@@ -1,0 +1,16 @@
+QWidget{
+    background-color: rgb(160, 237, 252);
+}
+
+QLineEdit{
+    background-color: rgb(255, 255, 255);
+    font-size: 30px;
+    border-radius: 6px;
+}
+
+QPushButton{
+    background-color: rgb(255, 255, 255);
+    font-size: 30px;
+    border-radius: 6px;
+}
+
